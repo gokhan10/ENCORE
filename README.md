@@ -1,1 +1,1 @@
-# ENCORE Ders için oluşturulmuş bir alandır.
+# ENCORE Dersi için oluşturulmuş bir alandır.
