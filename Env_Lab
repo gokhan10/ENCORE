@@ -1,9 +1,0 @@
- # Set Env
- if ENVONMENT_IN_USE == "sandbox" :
-  dnac={
-    "host": "sanboxdnac.cisco.com"
-    "port": 443,
-    "username": "devnetuser",
-    "password": "Cisco123!"
-  }
-  
